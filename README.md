@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a simple react app made entirely out of boredome. Also I got to implement context which is a plus. Heres the deployed site-[https://expensetracker-phantomgithubs-projects.vercel.app/](url)
 
 ## Available Scripts
 
